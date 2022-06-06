@@ -1,0 +1,299 @@
+body {
+    background: rgb(237, 238, 241);
+}
+
+#box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    width: 400px;
+    height: 340px;
+    margin-left: 750px;
+    margin-top: 120px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
+}
+
+
+
+input[type='email'],
+input[type='password'] {
+    width: 350px;
+    height: 40px;
+    border-radius:7px;
+    border: 1px;
+    border-color: gainsboro;
+    border-style: solid;
+    font-size: large;
+    padding-left: 15px;
+}
+
+.inputs {
+    margin-left: 15px;
+    margin-block: -255px;
+}
+
+
+#senha {
+    margin-top: 10px;
+}
+
+.btn {
+    margin-left: 5px;
+    margin-block: 10px;
+    color: white;
+    width: 365px;
+    height: 50px;
+    border-radius:7px;
+    border-style: none;
+    font-size: large;
+    padding-left: 15px;
+    background-color: #1877f2;
+    font-weight: 550;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+hr {
+    width: 370px;
+    margin-bottom: 20px;
+}
+
+.btn2 {
+    margin-left: 125px;
+    margin-block: 10px;
+    color: white;
+    width: 170px;
+    height: 50px;
+    border-radius:7px;
+    border-style: none;
+    font-size: large;
+    padding-left: 15px;
+    background-color: #42b72a;
+    font-weight: 550;
+}
+
+.btn2:hover {
+    cursor: pointer;
+}
+
+.pass {
+    margin-left: 150px;
+    margin-top: 265px;
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.roda_pe {
+    margin-top: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.esqueceu {
+    text-decoration: none;
+    color: #1b41e9;
+}
+
+.esqueceu:hover {
+    text-decoration: underline;
+}
+
+.roda {
+    text-decoration: none;
+    color: black;
+}
+
+.roda:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 270px;
+    text-align: center;
+    margin-inline: -580px;
+    margin-top: 80px;
+}
+
+.descricao {
+    width: 445px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-inline: -580px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.info {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    padding-right: 1250px;
+    padding-top: 75px;
+    margin-inline: -10px;
+    margin-top: 175px;
+}
+
+#fonte {
+    font-size: 12.4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(78, 78, 133);
+    
+}
+
+#botao_pls {
+    width: 30px;
+    color: rgb(90, 90, 90);
+    height: 22px;
+}
+
+#botao_pls:hover {
+    cursor: pointer;
+}
+
+.pt_br {
+    margin-left: 185px;
+    margin-block: -65px;
+    width: 100px;
+}
+
+.pt_br:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.en {
+    margin-left: 295px;
+    margin-block: 51px;
+    width: 70px;
+}
+
+.en:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.es {
+    margin-left: 375px;
+    margin-block: -65px;
+    width: 70px;
+}
+
+.es:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.fr {
+    margin-left: 430px;
+    margin-block: 51px;
+    width: 100px;
+}
+
+.fr:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.it {
+    margin-left: 537px;
+    margin-block: -65px;
+    width: 70px;
+}
+
+.it:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.dt {
+    margin-left: 588px;
+    margin-block: 51px;
+    width: 70px;
+}
+
+.dt:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.ar {
+    margin-left: 643px;
+    margin-block: -65px;
+    width: 70px;
+}
+
+.ar:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.hi {
+    margin-left: 682px;
+    margin-block: 49px;
+    width: 70px;
+}
+
+.hi:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.ch {
+    margin-left: 720px;
+    margin-block: -65px;
+    width: 70px;
+}
+
+.ch:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.jp {
+    margin-left: 789px;
+    margin-block: 49px;
+    width: 70px;
+}
+
+.jp:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.botao {
+    margin-left: 837px;
+    margin-block: -68px;
+}
+
+#hr_info {
+    width: 990px;
+    height: 0.1px;
+    border-color: rgb(227, 227, 233);
+    margin-left: 184px;
+    margin-top: 75px;
+}
+
+.caixa{
+    width:1000px;
+    margin-left: 126px;
+    margin-block: -135px;
+}
+
+li {
+    display: inline-block;
+    margin: 0 0 0 9px;    
+}
+
+li:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.empresa {
+    width: 80px;
+    margin-left: 183px;
+    margin-top: 95px;
+}
